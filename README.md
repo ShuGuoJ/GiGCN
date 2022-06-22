@@ -140,7 +140,7 @@ th.head {border-style:none;}
   <th>kappa</th>
 </tr>
 <tr>
-	<td><a href="">Two-CNN</a></td>
+	<td><a href="https://github.com/ShuGuoJ/TwoCnn.git">Two-CNN</a></td>
 	<td>78.20</td>
   <td>76.02</td>
   <td>0.71</td>
@@ -155,7 +155,7 @@ th.head {border-style:none;}
   <td>0.82</td>
 </tr>
 <tr>
-	<td><a href="">3DVSCNN</a></td>
+	<td><a href="https://github.com/ShuGuoJ/3DVSCNN.git">3DVSCNN</a></td>
 	<td>76.43</td>
   <td>75.47</td>
   <td>0.69</td>
@@ -185,7 +185,7 @@ th.head {border-style:none;}
   <td>0.91</td>
 </tr>
 <tr>
-	<td><a href="">SSLstm</a></td>
+	<td><a href="https://github.com/ShuGuoJ/SSLstm.git">SSLstm</a></td>
 	<td>69.59</td>
   <td>72.77</td>
   <td>0.62</td>
@@ -215,7 +215,7 @@ th.head {border-style:none;}
   <td>0.91</td>
 </tr>
 <tr>
-	<td><a href="">S-DMM</a></td>
+	<td><a href="https://github.com/ShuGuoJ/S-DMM.git">S-DMM</a></td>
 	<td>83.77</td>
   <td>90.98</td>
   <td>0.79</td>
@@ -230,7 +230,7 @@ th.head {border-style:none;}
   <td>0.78</td>
 </tr>
 <tr>
-	<td><a href="">3DCAE</a></td>
+	<td><a href="https://github.com/ShuGuoJ/3DCAE-hyperspectral-classification.git">3DCAE</a></td>
 	<td>59.14</td>
   <td>71.58</td>
   <td>0.51</td>
@@ -245,7 +245,7 @@ th.head {border-style:none;}
   <td>0.68</td>
 </tr>
 <tr>
-	<td><a href="">MDL4OW</a></td>
+	<td><a href="https://github.com/ShuGuoJ/MDL4OW.git">MDL4OW</a></td>
 	<td>76.55</td>
   <td>81.42</td>
   <td>0.70</td>
@@ -260,7 +260,7 @@ th.head {border-style:none;}
   <td>0.92</td>
 </tr>
 <tr bgcolor=#AFEEE>
-	<td><b><a href="">GiGCN</a></b></td>
+	<td><b><a href="https://github.com/ShuGuoJ/GiGCN.git">GiGCN</a></b></td>
 	<td><b>93.51</b></td>
   <td><b>94.07</b></td>
   <td><b>0.92</b></td>
