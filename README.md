@@ -272,7 +272,7 @@ th.head {border-style:none;}
   <td><b>0.91</b></td>
   <td><b>97.51</b></td>
   <td><b>95.88</b></td>
-  <td>0.97</b></td>
+  <td><b>0.97</b></td>
 </tr>
 </table>
 
