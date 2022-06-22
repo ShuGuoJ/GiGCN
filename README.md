@@ -114,10 +114,10 @@ In comparative experiments, GiGCN is compared with other eight state-of-the-art 
 |  [**GiGCN**](https://arxiv.org/abs/2102.02808)   |    97.51    |  95.88   |   0.97   |   0.0270   | -->
 
 
+<table border="1" width="98%">
 <style>
 th.head {border-style:none;}
 </style>
-<table border="1" width="98%">
 <tr>
 	<th rowspan="2" class="head"></th>
 	<th colspan="3" align="center">PaviaU</th>
