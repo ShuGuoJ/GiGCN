@@ -313,7 +313,7 @@ Here, `--block` denots the number of superpixel, which lies in `[50, 100, 150, 2
 
 The model with best accuracy will be saved.
 
-## 6. Prediction:
+## 4. Prediction:
 
 To test a trained model, run 
 
