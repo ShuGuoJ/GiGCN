@@ -300,7 +300,7 @@ Note: access code for `Baidu Disk` is `mst1`.
   ```shell
   python trainTestSplit.py --name PaviaU (data set name)
   ```
-  Download the data including raw `.mat` files and corresponding `.jpg` files used in superpixel segmentation from <a href="https://pan.baidu.com/s/1In_ySXoMG7DP5Q1hEyOzXA">here</a> (code: 4zyf) for a quick start.
+  Download the data including raw `.mat` files and corresponding `.jpg` files used in superpixel segmentation from <a href="https://pan.baidu.com/s/1In_ySXoMG7DP5Q1hEyOzXA">here</a> (code: 4zyf) for a quick start and place them in `GiGCN/`.
 
 ## 3. Training
 
