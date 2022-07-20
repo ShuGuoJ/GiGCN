@@ -314,6 +314,8 @@ Here, `--block` denots the number of superpixel, which lies in `[50, 100, 150, 2
 
 The model with best accuracy will be saved.
 
+Note: The `scikit-image` package in our experimental configuaration is of version 0.15.0 whose parameter `start_label` defaults to 0. However, in the lasted version, it defaults to 1. So when encountering the problem that indexes are out of the bounder at Line in, you should set `start_label` as 0 explicitly.
+
 ## 4. Prediction:
 
 To test a trained model, run 
