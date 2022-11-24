@@ -124,7 +124,7 @@ class JointTrainer(object):
         extNet.eval()
         intNet.to(device)
         extNet.to(device)
-        begin_time = time.time()
+        # begin_time = time.time()
         with torch.no_grad():
             # Internal graph features
             fe = intNet(subGraph.to_data_list())
@@ -134,9 +134,9 @@ class JointTrainer(object):
             fullGraph = fullGraph.to(device)
             logits = extNet(fullGraph)
         pred = torch.argmax(logits, dim=-1)
-        end_time = time.time()
-        print(f"time: {end_time - begin_time}")
-        exit(0)
+        # end_time = time.time()
+        # print(f"time: {end_time - begin_time}")
+        # exit(0)
         # indices = torch.nonzero(fullGraph, as_tuple=True)
         # node_number = fullGraph.seg[indices]
         # pixel_pred = pred[node_number]
