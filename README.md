@@ -7,8 +7,6 @@
 
 [Sen Jia](https://scholar.google.com.hk/citations?hl=zh-CN&user=UxbDMKoAAAAJ), [Shuguo Jiang](https://scholar.google.com.hk/citations?hl=zh-CN&user=B1YTGUgAAAAJ), [Shuyu Zhang](https://scholar.google.com.hk/citations?hl=zh-CN&user=O48TQQ4AAAAJ), [Meng Xu](https://scholar.google.com.hk/citations?hl=zh-CN&user=Hw1TFzQAAAAJ), [Xiuping Jia]()
 
-*The first two authors contribute equally to this work*
-
 <!-- #### News
 - **2022.04.17 :** Our paper has been accepted by CVPRW 2022, code and models have been released. :rocket: 
 - **2022.04.02 :** We win the **First** place of NTIRE 2022 Challenge on Spectral Reconstruction from RGB. :trophy: 
